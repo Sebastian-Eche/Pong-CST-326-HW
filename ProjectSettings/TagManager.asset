@@ -11,6 +11,7 @@ TagManager:
   - Right Trigger
   - LeftScore
   - RightScore
+  - PowerUp
   layers:
   - Default
   - TransparentFX
